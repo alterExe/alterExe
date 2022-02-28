@@ -5,7 +5,7 @@
 
 <h1 align="center">AlterExe - Spain ®</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+THE+HOME+OF+GAMERS;$+THE+HOME+OF+CODERS;$+THE+OTHERS;ALTER+EXE&color=00FF27&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=$+THE+HOME+OF+GAMERS;$+THE+HOME+OF+CODERS;$+THE+OTHER;+THE+.EXE;ALTER+EXE&color=00FF27&center=true&width=500&height=50"></a>
 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/alterExe/count.svg" /></p> 
 
